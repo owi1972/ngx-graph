@@ -3,6 +3,5 @@
   "dest": "../../dist/ngx-graph",
   "lib": {
     "entryFile": "src/public_api.ts"
-  },
-  "whitelistedNonPeerDependencies": ["."]
+  }
 }
